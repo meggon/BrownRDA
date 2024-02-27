@@ -20,7 +20,7 @@
 %
 % UNCOMMENT SECTION BELOW AND ENTER IN YOUR FOLDER AND FILE NAMES
 % folder = '/oscar/home/username/project/rawdata/sub-XXX/ses-01/mrs/sub-XXX_press_act'; 
-% file = 'NEURO.34.1.11914_Thala_288_ref.rda';
+% file = 'YOURSUBJECT_GLX.rda';
 % rda_filename = fullfile(folder,file);
 %  [in]=io_loadspec_rda(rda_filename);
 %  
